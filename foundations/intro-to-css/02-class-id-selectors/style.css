@@ -1,0 +1,24 @@
+.odd {
+    background-color: #e66b6b;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+.font-tnr {
+    font-family:'Times New Roman', Times, serif;
+}
+
+#two {
+    color: blue;
+    background-color: white;
+    font-size: 36px; 
+}
+
+#four {
+    color: black;
+    background-color: rgb(128, 232, 128);
+}
